@@ -98,7 +98,7 @@ int main() {
     writeFile();
     calculation();
 
-    cout << "Run Complete! Lab2 Set 3A Eunhak (David) Lee A01026056" << endl;
+    cout << "Lab2 Set 3A Eunhak (David) Lee A01026056" << endl;
 
     return 0;
 }
